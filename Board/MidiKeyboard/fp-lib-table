@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MidiKey")(type "KiCad")(uri "${KIPRJMOD}/MidiKey.pretty")(options "")(descr ""))
+)
